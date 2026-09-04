@@ -1,4 +1,4 @@
-# Análise de Performance de Conteúdo — Instagram FCX (Excel + SQL)
+# Análise de Performance de Conteúdo — Instagram (Excel + SQL)
 
 Projeto de portfólio: pipeline de análise de dados de marketing a partir
 de posts do Instagram, usando Excel e SQL como ferramentas principais.
